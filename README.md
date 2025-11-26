@@ -1,1 +1,3 @@
 # new-practical
+hello...
+this is new repository.
