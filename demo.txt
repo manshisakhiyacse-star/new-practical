@@ -1,2 +1,4 @@
-This is demo file
-Learning Git reset
+This is demo file.
+Learning Git reset.
+hello class 
+i am mansi from uk
